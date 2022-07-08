@@ -1,7 +1,7 @@
 # Git-It-Done
 ## A Github Lookup App
 
-Git-It-Done looks up Github users and open issues.
+Git-It-Done looks up Github users and open issues with the Github API.
 
 ## Features
 
